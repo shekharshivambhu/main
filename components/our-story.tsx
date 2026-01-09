@@ -34,7 +34,7 @@ export function OurStory() {
 
             <div className="text-center mb-10">
               <p className="text-foreground text-lg mb-2">
-                <span className="font-light">Mr. & Mrs.</span> <span className="italic">Sharma Family</span>
+                <span className="font-light">Mr. & Mrs.</span> <span className="italic">Sangwan Family</span>
               </p>
               <p className="text-muted-foreground text-sm tracking-wide mb-6">
                 cordially invite you to celebrate the wedding of their beloved son
@@ -48,7 +48,7 @@ export function OurStory() {
               </div>
 
               <p className="text-foreground text-lg mb-2">
-                <span className="font-light">Mr. & Mrs.</span> <span className="italic">Verma Family</span>
+                <span className="font-light">Mr. & Mrs.</span> <span className="italic">Joon Family</span>
               </p>
               <p className="text-muted-foreground text-sm tracking-wide mb-6">
                 joyfully invite you to the wedding of their cherished daughter
@@ -90,7 +90,7 @@ export function OurStory() {
 
         <div className="mt-12 text-center">
           <p className="text-muted-foreground text-sm tracking-wide">With warm regards and heartfelt blessings,</p>
-          <p className="text-foreground italic mt-2">The Sharma & Verma Families</p>
+          <p className="text-foreground italic mt-2">The Sangwan & Joon Families</p>
         </div>
       </div>
     </section>
